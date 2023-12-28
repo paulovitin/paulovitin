@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Paulo Vitor Reis</h1>
-<h4>Experienced Senior Front-end Developer with 17 years of experience in development, and leadership positions, building software from scratch or from existing code, integrating software with external systems, and understanding the cross-functional team requirements for delivering a product. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</h4>
+<h4>Experienced Senior Front-end Developer with 18 years of experience in development, and leadership positions, building software from scratch or from existing code, integrating software with external systems, and understanding the cross-functional team requirements for delivering a product. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulovitin&label=Profile%20views&color=0e75b6&style=flat" alt="paulovitin" /> </p>
 
